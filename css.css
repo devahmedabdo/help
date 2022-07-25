@@ -117,8 +117,8 @@ input[type="text"] {
 .mainImgToSave .img {
   background: url(test.jpg) center center;
   background-size: cover;
-  width: 1200px;
-  height: 1600px;
+  width: 600px;
+  height: 800px;
   position: relative;
   margin: auto;
 }
@@ -127,9 +127,9 @@ input[type="text"] {
   position: absolute;
   bottom: 0%;
   padding: 20px;
-  font-size: 50px;
-  line-height: 100px;
-  width: 1200px;
+  font-size: 25px;
+  line-height: 60px;
+  width: 100%;
 }
 footer a {
   text-decoration: none;
